@@ -1,6 +1,6 @@
 ---
 ID: 78
-post_title: grapefruit
+post_title: Grapefruit
 author: taugnitziktkhk
 post_excerpt: ""
 layout: post
