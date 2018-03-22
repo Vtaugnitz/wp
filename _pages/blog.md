@@ -5,7 +5,7 @@ author: taugnitziktkhk
 post_excerpt: ""
 layout: page
 permalink: >
-  http://taugnitz.ikt.khk.ee/wordpress/a-homepage-section/blog/
+  http://taugnitz.ikt.khk.ee/wordpress/home/blog/
 published: true
 post_date: 2018-03-09 07:56:17
 ---
